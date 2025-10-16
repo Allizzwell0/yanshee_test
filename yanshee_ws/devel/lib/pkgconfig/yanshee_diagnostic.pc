@@ -1,0 +1,8 @@
+prefix=/home/mayue/yanshee/yanshee_ws/devel
+
+Name: yanshee_diagnostic
+Description: Description of yanshee_diagnostic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
